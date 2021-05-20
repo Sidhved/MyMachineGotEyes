@@ -1,6 +1,6 @@
 Non Photorealistic Rendering <br>
 openCV project #3<br>
-The image used can be found at [Link]()
+The image used can be found at [Link](https://github.com/Sidhved/MyMachineGotEyes/blob/main/NonPhotorealisticRendering/Amy.jpg)
 
 -> edgePreservingFilter : As the name suggests, preserves edges<br>
 -> RECURS_FILTER : recursive filter<br>
