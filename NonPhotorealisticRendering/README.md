@@ -10,5 +10,7 @@ The image used can be found at [Link](https://github.com/Sidhved/MyMachineGotEye
     -> dst : O/p img with same size and type as src<br>
     -> sigma_s : Range between 0 to 200<br>
     -> sigma_r : Range between 0 to 1<br>
--> pencilSketch : Pencil-like non-photorealistic line drawing(parameters similar to detailEnhance but has shade_factor range from 0 to 0.1)
--> stylization : aims to produce digital imagery with a wide variety of effects not focused on photorealism. Edge-aware filters are ideal for stylization, as they can abstract regions of low contrast while preserving, or enhancing, high-contrast features.
+-> pencilSketch : Pencil-like non-photorealistic line drawing(parameters similar to detailEnhance but has shade_factor range from 0 to 0.1)<br>
+-> stylization : aims to produce digital imagery with a wide variety of effects not focused on photorealism. Edge-aware filters are ideal for stylization, as they can abstract regions of low contrast while preserving, or enhancing, high-contrast features.<br>
+
+[OUTPUT IMAGES](https://github.com/Sidhved/MyMachineGotEyes/tree/main/NonPhotorealisticRendering/OutputImages)
